@@ -1,0 +1,14 @@
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignment2/task1/bin/Debug/net8.0/task1
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignment2/task1/bin/Debug/net8.0/task1.deps.json
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignment2/task1/bin/Debug/net8.0/task1.runtimeconfig.json
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignment2/task1/bin/Debug/net8.0/task1.dll
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignment2/task1/bin/Debug/net8.0/task1.pdb
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignment2/task1/obj/Debug/net8.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignment2/task1/obj/Debug/net8.0/task1.AssemblyInfoInputs.cache
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignment2/task1/obj/Debug/net8.0/task1.AssemblyInfo.cs
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignment2/task1/obj/Debug/net8.0/task1.csproj.CoreCompileInputs.cache
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignment2/task1/obj/Debug/net8.0/task1.dll
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignment2/task1/obj/Debug/net8.0/refint/task1.dll
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignment2/task1/obj/Debug/net8.0/task1.pdb
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignment2/task1/obj/Debug/net8.0/task1.genruntimeconfig.cache
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignment2/task1/obj/Debug/net8.0/ref/task1.dll
