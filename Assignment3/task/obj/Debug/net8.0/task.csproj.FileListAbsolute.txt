@@ -1,0 +1,15 @@
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignments/Assignment3/task/bin/Debug/net8.0/task
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignments/Assignment3/task/bin/Debug/net8.0/task.deps.json
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignments/Assignment3/task/bin/Debug/net8.0/task.runtimeconfig.json
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignments/Assignment3/task/bin/Debug/net8.0/task.dll
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignments/Assignment3/task/bin/Debug/net8.0/task.pdb
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignments/Assignment3/task/obj/Debug/net8.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignments/Assignment3/task/obj/Debug/net8.0/task.AssemblyInfoInputs.cache
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignments/Assignment3/task/obj/Debug/net8.0/task.AssemblyInfo.cs
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignments/Assignment3/task/obj/Debug/net8.0/task.csproj.CoreCompileInputs.cache
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignments/Assignment3/task/obj/Debug/net8.0/task.sourcelink.json
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignments/Assignment3/task/obj/Debug/net8.0/task.dll
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignments/Assignment3/task/obj/Debug/net8.0/refint/task.dll
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignments/Assignment3/task/obj/Debug/net8.0/task.pdb
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignments/Assignment3/task/obj/Debug/net8.0/task.genruntimeconfig.cache
+/Users/nitinlodhi/Desktop/CoplurClasses/BasicsProgramming/Assignments/Assignment3/task/obj/Debug/net8.0/ref/task.dll
