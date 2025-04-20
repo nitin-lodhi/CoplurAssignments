@@ -5,6 +5,7 @@
         Customer customer = new Customer(101, "Nitin", "Lodhi", "nitin@gmail.com", CustomerType.Silver);
 
         RegisterCustomer registerCustomer = DataFactory.GetNewRegisterCustomer();
+        
         registerCustomer.Register(customer);
 
         // DiscountToCustomer discountToCustomer = DataFactory.GetNewDiscountToCustomer();

@@ -1,0 +1,43 @@
+.main-header {
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 1.4rem;
+  }
+  
+  .header-container {
+      width: 100%;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      padding: 0 4.4rem;
+  }
+  
+  .logo {
+    font-size: 2rem;
+    font-weight: bold;
+    color: rgb(0, 183, 255);
+  }
+  
+  .nav ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 4.4rem;
+  }
+  
+  .nav a {
+     text-decoration: none;
+     color: white;
+     font-size: 1rem;
+     transition:all linear 0.2s ;
+     -webkit-transition:all linear 0.2s ;
+     -moz-transition:all linear 0.2s ;
+     -ms-transition:all linear 0.2s ;
+     -o-transition:all linear 0.2s ;
+}
+  
+  .nav a:hover {
+    color: rgb(0, 183, 255);
+  }
+  
