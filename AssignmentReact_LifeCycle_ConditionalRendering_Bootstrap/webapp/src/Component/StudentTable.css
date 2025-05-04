@@ -1,0 +1,44 @@
+#table-name {
+    font-size: 4rem;
+    color: white;
+    margin-bottom: 2.4rem;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: #5f5f5f;
+}
+
+th,
+td {
+    padding: 0.7rem 1.4rem;
+    text-align: center;
+}
+
+th {
+    background-color: rgb(7, 172, 243);
+}
+
+tr {
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;
+    transition: linear all 0.3s;
+    -webkit-transition: linear all 0.3s;
+    -moz-transition: linear all 0.3s;
+    -ms-transition: linear all 0.3s;
+    -o-transition: linear all 0.3s;
+}
+
+tr:first-child {
+    font-size: 1.4rem;
+}
+
+tr:first-child:hover {
+    scale: 1;
+}
+
+tr:hover {
+    background-color: #282828;
+    scale: 1.05;
+}
