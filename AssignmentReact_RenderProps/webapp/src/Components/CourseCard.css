@@ -1,0 +1,13 @@
+.container{
+     width: 10rem;
+     height: auto;
+     padding: 2.4rem;
+     display: flex;
+     flex-direction: column;
+     border-radius: 1rem;
+     background-color: rgb(147, 143, 143);
+     -webkit-border-radius: 1rem;
+     -moz-border-radius: 1rem;
+     -ms-border-radius: 1rem;
+     -o-border-radius: 1rem;
+}
