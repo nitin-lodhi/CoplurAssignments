@@ -1,5 +1,5 @@
 public interface IUserManager
 {
     public List<User> GetAllUser();
-    public List<User> GetUserById(int id);
+    public User GetUserById(int id);
 }

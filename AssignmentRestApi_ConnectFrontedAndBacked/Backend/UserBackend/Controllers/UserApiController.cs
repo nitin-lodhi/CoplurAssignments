@@ -27,11 +27,7 @@ namespace UserBackend.Controllers
         public IActionResult GetUserById(int id)
         {
             var response = _userManager.GetUserById(id);
-            if(response != null)
-            {
-                return Ok(response);
-            }
-            return NotFound();
+            return Ok(response);
         }
     }
 }

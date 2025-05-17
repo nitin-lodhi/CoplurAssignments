@@ -4,22 +4,16 @@ import UserProfile from "./UserProfile";
 
 const QueryFrom = () => {
 
-    const [users, setUsers] = useState([]);
+    const [users, setUsers] = useState(null);
     const [id, setId] = useState("");
 
-    
+
     const handleUserByID = () => {
         if (id.trim() !== "") {
             const url = `http://localhost:5219/api/UserApi/${id}`;
             fetch(url)
                 .then((res) => res.json())
-                .then((data) => {
-                    if (Array.isArray(data)) {
-                    setUsers(data);
-                } else {
-                    setUsers([data]);
-                }
-                })
+                .then((data) => setUsers([data]))
                 .catch((err) => {
                     alert(`User not found by the given id ${id}`);
                     console.log("Error while fetching data : ", err);
@@ -43,18 +37,31 @@ const QueryFrom = () => {
     const handleIdChange = (e) => {
         setId(e.target.value);
     };
-    
 
-   
+    console.log("Response : ", users);
+
+    const handleBack = () => {
+        setId("");
+        setUsers(null);
+    };
+
+
     return (
-        <> 
-            { users && users.length > 0 ? 
+        <>
+            {users && users.length > 0 ?
                 <div className="user-profiles">
                     {users.map((user) => (
                         <UserProfile key={user.id} user={user} />
                     ))}
+                    <button
+                        type="button"
+                        className="btn btn-primary"
+                        onClick={handleBack}
+                    >
+                        Back
+                    </button>
                 </div>
-             : 
+                :
                 <form>
                     <div className="container">
                         <div>

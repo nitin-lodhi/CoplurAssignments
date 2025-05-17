@@ -62,12 +62,8 @@ static List<User> users = new List<User>
         return users;
     }
 
-    public List<User> GetUserById(int id)
+    public User GetUserById(int id)
     {
-        var user = users.FirstOrDefault(user => user.id == id);
-
-        List<User> singleUserList = new List<User>();
-        singleUserList.Add(user);
-        return singleUserList;
+        return users.FirstOrDefault(user => user.id == id);
     }
 }
